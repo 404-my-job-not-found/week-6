@@ -1,16 +1,15 @@
-## N주차
+## 6주차
 
 ### 기간
 
-YYYY.MM.DD - YYYY.MM.DD
+2025.07.30 - 2025.08.06
 
 ### 문제
 
-1. [문제명](링크)
-2. [문제명](링크)
-3. [문제명](링크)
-4. [문제명](링크)
-5. [문제명](링크)
+1. [Count Primes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/)
+2. [Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)
+3. [Number of 1 Bits](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/565/)
+4. [Valid Parentheses](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/721/)
 
 ### 규칙
 
