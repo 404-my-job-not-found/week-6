@@ -7,9 +7,14 @@ function countPrimes(n: number): number {
 
 	for (let i = 2; i * i < n; i++) {
 		if (isPrime[i]) {
+			console.log(`소수 발견: ${i}`)
 			for (let j = i * i; j < n; j += i) {
+				if (isPrime[j]) console.log(`-> ${j}는 ${i}의 배수니까 제거`)
 				isPrime[j] = false
 			}
+			console.log(
+				`중간 결과: ${isPrime.map((v, idx) => (v ? idx : ".")).join(" ")}`
+			)
 		}
 	}
 
